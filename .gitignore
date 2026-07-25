@@ -20,3 +20,9 @@ gradle-app.setting
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 .env
+
+# IntelliJ IDEA
+.idea/
+
+# Compiled class files
+*.class
